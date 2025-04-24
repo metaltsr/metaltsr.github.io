@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Product Sans';
+    src: url('ProductSans-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body{
+    background-color: rgb(24, 25, 29);
+    color: aliceblue;
+    font-family: 'Product Sans';
+}
+
+.fing2{
+    padding: 15%;
+}
+
+.fingfing2{
+    padding-top: 10%;
+}
+
+.fing3{
+    width: 110%;
+}
+
+.fingfing3{
+    width: 115%;
+}
+
+.fingfing4{
+    width: 140%;
+}
+
+.skib{
+    color: rgb(0, 110, 255);
+}
+
+.fing2{
+    padding-top: 15%;
+    padding-left: 9%;
+}
