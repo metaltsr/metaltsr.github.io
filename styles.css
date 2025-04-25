@@ -5,18 +5,21 @@
     font-style: normal;
   }
 
+@font-face {
+    font-family: 'ProductSansBold';
+    src: url('ProductSans-Bold.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     background-color: rgb(24, 25, 29);
-    color: aliceblue;
+    color: rgb(220, 221, 226);
     font-family: 'Product Sans';
 }
 
-.fing2{
-    padding: 15%;
-}
-
 .fingfing2{
-    padding-top: 10%;
+    padding-top: 15%;
 }
 
 .fing3{
@@ -36,6 +39,27 @@ body{
 }
 
 .fing2{
-    padding-top: 15%;
-    padding-left: 9%;
+    padding: 15%;
+}
+
+.TrentAlexander-Arnold{
+    padding-left: 50%;
+}
+
+.SergioRamos{
+    padding-left: 15%;
+}
+
+.bold{
+    font-family: 'ProductSansBold';
+}
+
+.MarcusRashford{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+}
+
+.FreakyAhh{
+    padding-top: 15%; 
 }
