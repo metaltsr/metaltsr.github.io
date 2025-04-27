@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Product Sans';
-    src: url('ProductSans-Regular.ttf') format('woff');
+    src: url('fonts/ProductSans-Regular.ttf') format('woff');
     font-weight: normal;
     font-style: normal;
   }
 
 @font-face {
     font-family: 'ProductSansBold';
-    src: url('ProductSans-Bold.ttf') format('woff');
+    src: url('fonts/ProductSans-Bold.ttf') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -74,5 +74,9 @@ footer {
     background-color: #181818;
     padding: 10px;
     padding-left: 15%;
-  }
-  
+    width: 99.9%;
+}
+
+.figmus{
+    padding-top: 10%;
+}
